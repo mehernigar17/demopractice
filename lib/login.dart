@@ -7,6 +7,7 @@ class login extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body:Column(
+        crossAxisAlignment: CrossAxisAlignment.center,
 
       ),
     );
